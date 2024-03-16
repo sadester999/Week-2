@@ -1,0 +1,37 @@
+* {
+    margin-top: 10px;
+}
+input[type=text] {
+    border: 1px solid rgb(200, 198, 198);
+    padding: 6px;
+    font-family: "quicksand";
+}
+.b {
+    font-size: 20px;
+}
+.a {
+    font-size: 20px;
+}
+.c {
+    font-size: 20px;
+}
+.submit {
+    margin-top: 30px;
+}
+
+body {
+border: 1px solid black;
+padding: 30px;
+margin: 30px 508.5px;
+font-family: "quicksand";
+text-align: center;
+border-radius: 2%;
+}     
+ .myFont {
+  font-family: "quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+    
